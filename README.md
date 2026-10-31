@@ -1,7 +1,28 @@
 # OpenSourceSoftwareDevelopment
 School Task
 
-I'm a university junior year student majoring in software engineering, studying open source software development now.
-Goal for this term:
-1.understand how an open source project operate and make a standardized contribution.
-2.habits to build: Documenting issues, reading documentation, and respecting licenses.
+# 课程资料整理工具
+
+## 简介
+本项目旨在帮助大学生按课程和日期自动整理杂乱的电子版学习资料，提高复习效率。
+
+## 项目状态
+**开发中（设计阶段）**。当前仅完成基础架构设计与需求分析，暂未发布可执行版本。
+
+## 安装或获取
+当前为设计阶段，暂无安装包。请阅读 [设计文档]() 以了解后续计划。
+
+## 使用说明
+（由于尚未开发，此处暂无最小操作步骤，开发完成后将补充）
+
+## 项目结构与依赖
+- `README.md`：项目说明
+- `compliance-analysis.md`：许可证选择分析
+- `LICENSE`：MIT 许可证
+- 当前版本未引入第三方素材/依赖。
+
+## 如何贡献
+如果你有任何建议或发现文档问题，欢迎在仓库的 [Issues]() 页面提交反馈。
+
+## 许可证
+本项目采用 [MIT License](LICENSE) 许可。选择该许可证是因为它允许任何人自由使用、修改和分发代码（包括闭源商用），只需保留原作者的版权声明即可，非常适合开源小工具。
